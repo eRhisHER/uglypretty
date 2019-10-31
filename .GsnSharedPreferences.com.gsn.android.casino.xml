@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+  <string name="seam.user.id">5d779bd638386c11b2e11ca7</string>
+  <boolean name="seam.is.gsncom" value="false" />
+  <boolean name="seam.has.facebook" value="false" />
+  <boolean name="guest.mode.disabled" value="false" />
+  <string name="seam.session.token">Gvq4Ec7UaLKtHelaDMhmLjyxB67VeHgvsLf/xMYBCq2BFGxhSdZFjw==</string>
+  <string name="PREF_INSTALL_ID">804f7769-74c7-4ebc-8cb0-1edf5b12c5bf</string>
+</map>
